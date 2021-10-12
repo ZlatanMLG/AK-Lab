@@ -14,3 +14,14 @@ int Calculator::Mul (double a, double b)
 {
     return a * b + 0.5;
 }
+
+// Was
+// Wollen
+// Wir
+// TRINKEN
+// SIEBEN
+// TAGE
+// LANG
+// WAS
+// WOLLEN WIR TRINKEN 
+// SO EIN DURST
